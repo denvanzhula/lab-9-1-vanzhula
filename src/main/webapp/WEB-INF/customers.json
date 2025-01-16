@@ -1,0 +1,19 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "+123456789",
+    "address": "123 Elm Street",
+    "photo": "photo1.jpg",
+    "orders": [
+      { "date": "2025-01-01", "amount": 50.0, "paymentMethod": "Credit Card" },
+      { "date": "2024-12-15", "amount": 100.0, "paymentMethod": "PayPal" }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "phone": "+987654321",
+    "address": "456 Maple Avenue",
+    "photo": "photo2.jpg",
+    "orders": []
+  }
+]
