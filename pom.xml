@@ -10,6 +10,7 @@
     <name>lab-9-1-vanzhula</name>
     <packaging>war</packaging>
 
+         
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>21</maven.compiler.target>
